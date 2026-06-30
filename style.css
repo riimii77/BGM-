@@ -5,8 +5,17 @@ body {
   color: white;
 }
 
+.screen{
+  width: 100vw;
+  height: 50vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 #clock {
-  font-size: 14px;
+  font-size: 70px;
   font-family: monospace;
   letter-spacing: 0.2em;
   opacity: 0.7;
